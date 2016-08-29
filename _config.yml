@@ -1,19 +1,4 @@
-name: samuel kwok bio
-favicon: null
-layout_spectrum: 0.7455589608289301
 typography_spectrum: 0.5448102634400129
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,19 @@ color:
   lightness: 0.1531118042767048
   saturation: 0.8118621869944036
   rhythmicContrast: 0.14458609325811267
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7455589608289301
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: samuel kwok bio
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
